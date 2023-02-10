@@ -1,0 +1,6 @@
+com\ifp\interfaces\JuegoEjemploInterfaces.class
+com\ifp\interfaces\JuegoEjemploInterfacesMensaje.class
+com\ifp\interfaces\Jugar.class
+com\ifp\interfaces\JuegoAdivinaNumero.class
+com\ifp\interfaces\MensajesAbstracta.class
+com\ifp\interfaces\JuegoDados.class
